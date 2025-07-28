@@ -6,7 +6,7 @@
 
 A **Physics-Informed Deep Learning (PIDL)** framework for modeling complex material behavior while enforcing thermodynamic consistency. This repository implements a novel approach that combines Long Short-Term Memory (LSTM) networks with Feed-Forward Neural Networks (FFNNs) to predict the mechanical response of nanoparticle-filled epoxy composites under varying ambient conditions.
 
-![Model Architecture](pinn.PNG)
+![Model Architecture](/PINN_Overview.PNG)
 
 ## 🎯 Overview
 
